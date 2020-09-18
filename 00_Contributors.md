@@ -1,1 +1,1 @@
-## Community behind the HYCOM-GOM-V4.1
+## The community behind the HYCOM-GOM-V4.1
