@@ -4,7 +4,7 @@ Este repositorio contendra los archivos de configuracion necesarios para la crea
 
 
 ![gom_l08c_labels](https://user-images.githubusercontent.com/50562184/93612619-533a6280-f995-11ea-8b7a-e5dba8107901.jpg)<br>
-*Figure 1: horizontal extent of the HYCOM-GOM domain
+*Figure 1: Horizontal extent of the HYCOM-GOM domain.*
 
 
 
